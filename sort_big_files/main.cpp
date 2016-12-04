@@ -1,4 +1,4 @@
-//      111111111111111111
+//      222222222222222222
 //      strfile-parser.cpp
 //      
 //      Copyright 2011 Trusov Denis
