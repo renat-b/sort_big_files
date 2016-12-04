@@ -126,7 +126,7 @@ typedef
 	unsigned char byte;
 
 typedef
-	vector <unsigned> str_entries;
+	vector <unsigned>      str_entries;
 
 class file_parser
 {
